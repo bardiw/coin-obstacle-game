@@ -23,15 +23,15 @@ A simple yet fun arcade-style game built with Python and Pygame. Control the pla
 
 ## 🎮 How to Play
 
+### 🕹️ Controls
+
+- Move Left: ⬅️
+- Move Right: ➡️
+- Restart after Game Over: ⏎ Enter
+
 ### ⬇️ Install Requirements
 
 First, make sure you have Python installed. Then, install Pygame:
 
 ```bash
 pip install pygame
-
-### 🕹️ Controls
-
-- Move Left: ⬅️
-- Move Right: ➡️
-- Restart after Game Over: ⏎ Enter
