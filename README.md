@@ -29,3 +29,9 @@ First, make sure you have Python installed. Then, install Pygame:
 
 ```bash
 pip install pygame
+
+### 🕹️ Controls
+
+- Move Left: ⬅️
+- Move Right: ➡️
+- Restart after Game Over: ⏎ Enter
